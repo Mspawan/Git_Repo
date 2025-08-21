@@ -1,2 +1,2 @@
-title: App
-version: 1.0
+title: App (renamed)
+version: 2.0
